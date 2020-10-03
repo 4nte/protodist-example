@@ -17,6 +17,6 @@ jobs:
 
       # Runs the Super-Linter action
       - name: Run Super-Linter
-        uses: 4nte/protodist@master
+        uses: 4nte/protodist-action@master
         with:
           branch: test
